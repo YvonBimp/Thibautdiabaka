@@ -4,15 +4,15 @@
 
 Bienvenue sur mon portfolio GitHub.  
  Passionné par la cybersécurité, les réseaux et le support technique, je développe des projets concrets en Python, analyse système et assistance informatique.
-Je suis un profil technique orienté cybersécurité, réseaux, support informatique et résolution de problèmes, avec une base solide en environnement Windows/Linux, TCP/IP, analyse de données et assistance aux utilisateurs [file:1].
+Je suis un profil technique orienté cybersécurité, réseaux, support informatique et résolution de problèmes, avec une base solide en environnement Windows/Linux, TCP/IP, analyse de données et assistance aux utilisateurs.
 
 
 ---
 
 ## À propos de moi
 
-Je suis actuellement en baccalauréat par cumul en cybersécurité à Polytechnique Montréal, avec une formation en cybersécurité opérationnelle, architecture de la cybersécurité et cyberfraude [file:1].  
-J’ai aussi une expérience concrète en support informatique, dépannage, câblage réseau, service à la clientèle et gestion de requêtes dans des environnements exigeants [file:1].
+Je suis actuellement en baccalauréat par cumul en cybersécurité à Polytechnique Montréal, avec une formation en cybersécurité opérationnelle, architecture de la cybersécurité et cyberfraude .  
+J’ai aussi une expérience concrète en support informatique, dépannage, câblage réseau, service à la clientèle et gestion de requêtes dans des environnements exigeants .
 
 ---
 
@@ -26,7 +26,7 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 - TCP/IP et diagnostic réseau.
 - Analyse de données.
 - Gestion de dossiers et assistance utilisateur.
-- Outils d’analyse forensique : ENCASE, X-Ways [file:1].
+- Outils d’analyse forensique : ENCASE, X-Ways .
 
 ---
 
@@ -59,18 +59,18 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 ## Parcours
 
 ### Formation
-- Baccalauréat en cybersécurité, Polytechnique Montréal, 2025–2027 [file:1].
-- Certificat en cyberfraude, terminé [file:1].
-- Certificat en soutien technique informatique, La Cité collégiale Ottawa, 2013 [file:1].
-- BTS Réseaux informatiques, IMSET Tunisie, 2010–2012 [file:1].
+- Baccalauréat en cybersécurité, Polytechnique Montréal, 2025–2027 .
+- Certificat en cyberfraude, terminé .
+- Certificat en soutien technique informatique, La Cité collégiale Ottawa, 2013 .
+- BTS Réseaux informatiques, IMSET Tunisie, 2010–2012 .
 
 ### Expérience
-- Agent administratif, CIUSSS du Nord-de-l’Île-de-Montréal / Urgence Hôpital Sacré-Cœur [file:1].
-- Agent de communication sociale, Ville de Montréal [file:1].
-- Agent de vente résidentielle, Bell Canada / Nordia, 2018–2022 [file:1].
-- Technicien informatique, La Relance, 2014–2015 [file:1].
-- IT Expert informatique, Gatineau, 2013–2014 [file:1].
-- Stages en réseaux informatiques, STS Network et COGETEL Alcatel Lucent, Tunisie [file:1].
+- Agent administratif, CIUSSS du Nord-de-l’Île-de-Montréal / Urgence Hôpital Sacré-Cœur .
+- Agent de communication sociale, Ville de Montréal .
+- Agent de vente résidentielle, Bell Canada / Nordia, 2018–2022 .
+- Technicien informatique, La Relance, 2014–2015 .
+- IT Expert informatique, Gatineau, 2013–2014 .
+- Stages en réseaux informatiques, STS Network et COGETEL Alcatel Lucent, Tunisie .
 
 ---
 
