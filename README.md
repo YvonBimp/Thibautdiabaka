@@ -3,7 +3,8 @@
 🚀 Candidat en cybersécurité | Réseaux informatiques | Support technique | Python
 
 Bienvenue sur mon portfolio GitHub.  
- Passionné par la cybersécurité, les réseaux et le support technique, je développe des projets concrets en Python, analyse système et assistance informatique.
+ Passionné par la cybersécurité, les réseaux et le support technique, je développe des projets concrets en Python pour la cybersécurité,en  analyse système et en assistance informatique.
+ 
 Je suis un profil technique orienté cybersécurité, réseaux, support informatique et résolution de problèmes, avec une base solide en environnement Windows/Linux, TCP/IP, analyse de données et assistance aux utilisateurs.
 
 
