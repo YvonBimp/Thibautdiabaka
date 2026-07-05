@@ -1,6 +1,6 @@
 # Thibaut Diabaka Bimpalou
 
-🚀 Candidat en cybersécurité | Réseaux informatiques | Support technique | Python
+🚀  cybersécurité | Réseaux informatiques | Support technique | Python
 
 Bienvenue sur mon portfolio GitHub.  
  Passionné par la cybersécurité, les réseaux et le support technique, je développe des projets concrets en Python pour la cybersécurité,en  analyse système et en assistance informatique.
