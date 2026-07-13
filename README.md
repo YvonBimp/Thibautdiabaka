@@ -33,8 +33,8 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 
 ## Projets en vedette
 
-### 1. [Nom du projet 1](lien-vers-projet-1)
-**Résumé :** Description courte du problème résolu, des technologies utilisées et de l’impact du projet.
+### 1. [Gestionnaire de mots de passes et Générateur de mdp](YvonBimp/Gestionnaire_Generateur_d_mdp)
+**Résumé :** Géstionnaire de mots de passes et Générateur de mots de passe 
 
 ### 2. [Nom du projet 2](lien-vers-projet-2)
 **Résumé :** Exemple de projet en cybersécurité, script Python, automatisation ou laboratoire technique.
