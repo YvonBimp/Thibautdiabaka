@@ -37,7 +37,7 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 **Résumé :** Géstionnaire de mots de passes et Générateur de mots de passe 
 
 ### 2. [Test d'intrusion Ethique](https://yvonbimp.github.io/TEST_DINTRUSION_ETHIQUE/)
-**Résumé :** Exemple de projet en cybersécurité, script Python, automatisation ou laboratoire technique.
+**Résumé :ceci est un  laboratoire technique, ou j'ai effectuer un test d’intrusion, sur deux machine cible..
 
 ### 3. [Sensibilisation Phishing , Test De phising](lien-vers-projet-3)
 **Résumé :** Exemple de projet réseau, analyse, détection, documentation ou application.
