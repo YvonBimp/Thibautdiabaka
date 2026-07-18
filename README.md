@@ -33,8 +33,8 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 
 ## Projets en vedette
 
-### 1. [Gestionnaire de mots de passes et Générateur de mdp](https://github.com/YvonBimp/Gestionnaire_Generateur_d_mdp)
-**Résumé :** Géstionnaire de mots de passes et Générateur de mots de passe 
+### 1. [Gestionnaire de mots de passes et Générateur de mots de passes ](https://github.com/YvonBimp/Gestionnaire_Generateur_d_mdp)
+**Résumé :** Géstionnaire de mots de passes et Générateur de mots de passes 
 
 ### 2. [Test d'intrusion Ethique](https://yvonbimp.github.io/TEST_DINTRUSION_ETHIQUE/)
 **Résumé :** ceci est un  laboratoire technique, ou j'ai effectuer un test d’intrusion, sur deux machine cible..
