@@ -61,7 +61,7 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 
 ### Formation
 - Baccalauréat en cybersécurité, Polytechnique Montréal, 2025–2027 .
-- Certificat en cyberfraude, terminé .
+- Certificat en cyberfraude, Polytechnique Montréal.
 - Certificat en soutien technique informatique, La Cité collégiale Ottawa, 2013 .
 - BTS Réseaux informatiques, IMSET Tunisie, 2010–2012 .
 
