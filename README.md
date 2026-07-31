@@ -1,6 +1,6 @@
 # Thibaut Diabaka Bimpalou
 
-🚀  cybersécurité | Réseaux informatiques | Support technique | Python
+🚀  Analyse , cybersécurité et Opérationnelle| Réseaux informatiques | Support technique | Cyberfraude | Cyberenquete
 
 Bienvenue sur mon portfolio GitHub.  
  Passionné par la cybersécurité, les réseaux et le support technique, je développe des projets concrets en Python pour la cybersécurité,en  analyse système et en assistance informatique.
@@ -39,7 +39,7 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 ### 2. [Test d'intrusion Ethique](https://yvonbimp.github.io/TEST_DINTRUSION_ETHIQUE/)
 **Résumé :** ceci est un  laboratoire technique, ou j'ai effectuer un test d’intrusion, sur deux machine cible..
 
-### 3. [Laboratoire de Configuration Parfeu Windows]()
+### 3. [Laboratoire de Configuration Parfeu Windows](https://yvonbimp.github.io/Lab-configuration-pare-feu-Windows/)
 
 ### 4. [Sensibilisation Phishing , Test de Phising](lien-vers-projet-3)
 **Résumé** : J'ai réalisé une campagne de sensibilisation sur les risques actuels de phishing auprès de mon cercle social, en évaluant les pourcentages d'envois de masse chaque minute et en mettant en place une simulation de phishing à Partir de Gophish.
