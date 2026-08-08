@@ -37,7 +37,7 @@ J’ai aussi une expérience concrète en support informatique, dépannage, câb
 **Résumé :** Géstionnaire de mots de passes et Générateur de mots de passes 
 
 ### 2. [Test d'intrusion Ethique](https://yvonbimp.github.io/TEST_DINTRUSION_ETHIQUE/)
-**Résumé :** ceci est un  laboratoire technique, ou j'ai effectuer un test d’intrusion, sur deux machine cible..
+**Résumé :** ceci est un  laboratoire technique, ou j'ai effectuer un test d’intrusion, sur deux machine cible , mise en place à cet effet..
 
 ### 3. [Laboratoire de Configuration Parfeu Windows](https://yvonbimp.github.io/Lab-configuration-pare-feu-Windows/)
 
